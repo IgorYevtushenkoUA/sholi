@@ -3,4 +3,9 @@ Delasport
 Hello World
 work here and add new text to check how work rebase
 1+2
+
 48 Законів
+Плани на день:
+    * Робота
+    * Спортзал
+    * Приготування їжі
