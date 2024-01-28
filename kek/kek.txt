@@ -9,3 +9,5 @@ work here and add new text to check how work rebase
     * Робота
     * Спортзал
     * Приготування їжі
+
+1,2,3,5,8,13
